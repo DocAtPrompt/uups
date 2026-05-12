@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: doktoereben.at
+    url: https://doktoereben.at
   - name: familieerben.net
     url: https://familieerben.net
 
