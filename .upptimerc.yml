@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: doktoereben.at
-    url: https://doktoereben.at
+    url: http://doktoereben.at
   - name: familieerben.net
     url: https://familieerben.net
 
