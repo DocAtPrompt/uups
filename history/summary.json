@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 99,
+      "2026-08-18": 434,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -182,9 +182,9 @@
     "url": "https://familieerben.net",
     "icon": "https://icons.duckduckgo.com/ip3/familieerben.net.ico",
     "slug": "familieerben-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +193,8 @@
     "timeWeek": 510,
     "timeMonth": 605,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-18": 0
+    }
   }
 ]
